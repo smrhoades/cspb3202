@@ -1,4 +1,4 @@
-Thie repo contains the following projects:
+This repo contains the following projects:
 
 1. Hw5 (Kaggle Competition)
    
@@ -12,6 +12,8 @@ Thie repo contains the following projects:
    
    a. FinalProject_SRhoades.ipynb
    
-   b. RLenvsetup.md
+   b. FinalProject_SRhoades.pdf
    
-   c. FinalProjectVideo_SRhoades
+   c. RLenvsetup.md
+   
+   d. FinalProjectVideo_SRhoades.mv
