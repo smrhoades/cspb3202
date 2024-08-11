@@ -16,4 +16,5 @@ This repo contains the following projects:
    
    c. `RLenvsetup.md`
    
-   d. `FinalProjectVideo_SRhoades.mp4`
+   d. ~FinalProjectVideo_SRhoades.mp4~
+   https://www.youtube.com/watch?v=IabidVwwWTg
